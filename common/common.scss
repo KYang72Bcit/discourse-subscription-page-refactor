@@ -1,0 +1,40 @@
+.post-info.edits {
+    display: none;
+}
+
+.product-list .product  {
+    width: auto !important;
+
+}
+
+.product-list .product .product-purchase {
+
+margin-top: 2rem;
+
+display: flex; 
+
+flex-flow: column;
+
+text-align: center;
+
+}
+
+.product-list .product .product-purchase .billing-link {
+
+font-size: var(--font-down-1); 
+
+box-sizing: border-box; 
+
+padding: 0.5em 0.65em; 
+
+border: var(--tertiary) 1px solid;
+
+ border-radius: 8px;
+ align-self: center;
+ width: 100%;
+
+}
+
+.promo-code {
+    display: none;
+}
